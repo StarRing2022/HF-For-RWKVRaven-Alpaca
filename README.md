@@ -1,5 +1,5 @@
 # HF-For-RWKVRaven-Alpaca
-将RWKV Raven/Pile/PilePlus系列模型由原生pth转为HF格式(这三种模型的词表及tokenizer一致)，并进行Alpaca全量微调。<br>
+将RWKV Raven/Pile/PilePlus系列模型由原生pth转为HF格式(这三种模型的词表及tokenizer一致，推荐V11或V12的Raven版本)，并进行Alpaca全量微调。<br>
 
 
 环境：WIN10+Torch1.31+Cuda11.6 <br>
