@@ -13,6 +13,9 @@ modeling_rwkv.py：RWKV模型的网络结构<br>
 alpacatrain.py：使用test.json的alpaca全量微调模型<br>
 alpacatest.py：测试alpaca全量微调模型<br>
 
+一个基于RWKV-430M-Pile的Alpaca全量微调范例（2条数据，1个epoch，仅测试）：<br>
 HF开源地址：<br>
 https://huggingface.co/StarRing2022/RWKV-430M-Pile-Alpaca/<br>
+
+一个RWKV-4-Raven-3B-v11-Eng49%-Chn49%的原生pth格式转为HF格式范例：<br>
 https://huggingface.co/StarRing2022/RWKV-4-Raven-3B-v11-zh/<br>
