@@ -10,7 +10,9 @@ convert_rwkv_checkpoint_to_hf.py：RWKV的原生pth格式转为HF格式<br>
 generate.py：使用HF的RWKV模型架设服务<br>
 hello.py：测试HF的RWKV模型<br>
 modeling_rwkv.py：RWKV模型的网络结构<br>
-alpacatrain.py：使用test.json的alpaca全量微调模型
-alpacatest.py：测试alpaca全量微调模型
+alpacatrain.py：使用test.json的alpaca全量微调模型<br>
+alpacatest.py：测试alpaca全量微调模型<br>
 
-HF开源地址：https://huggingface.co/StarRing2022/RWKV-430M-Pile-Alpaca/
+HF开源地址：<br>
+https://huggingface.co/StarRing2022/RWKV-430M-Pile-Alpaca/<br>
+https://huggingface.co/StarRing2022/RWKV-4-Raven-3B-v11-zh/<br>
